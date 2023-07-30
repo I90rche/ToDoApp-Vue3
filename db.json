@@ -1,0 +1,28 @@
+{
+    "assignments": [
+        {
+            "name": "Solve for x.",
+            "complete": false,
+            "id": 1,
+            "tag": "math"
+        },
+        {
+            "name": "Finish project.",
+            "complete": false,
+            "id": 2,
+            "tag": "science"
+        },
+        {
+            "name": "Read that book.",
+            "complete": false,
+            "id": 3,
+            "tag": "reading"
+        },
+        {
+            "name": "Solve something else.",
+            "complete": false,
+            "id": 4,
+            "tag": "math"
+        }
+    ]
+}
